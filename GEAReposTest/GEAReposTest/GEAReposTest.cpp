@@ -8,7 +8,7 @@ int one;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout << "Hello World." << endl;
+	cout << "Hello lemonade league." << endl;
 	cin >> one;
 }
 
